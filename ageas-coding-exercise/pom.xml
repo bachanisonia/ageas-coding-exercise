@@ -1,0 +1,20 @@
+<project xmlns="https://maven.apache.org/POM/4.0.0" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.interview.ageas</groupId>
+  <artifactId>ageas-coding-exercise</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Ageas Coding Exercise</name>
+  <description>Ageas Coding Exercise</description>
+  
+  
+  <dependencies>
+
+		<dependency>
+		    <groupId>org.apache.commons</groupId>
+		    <artifactId>commons-lang3</artifactId>
+		    <version>3.14.0</version>
+		</dependency>
+	  
+  </dependencies>
+	  
+</project>
